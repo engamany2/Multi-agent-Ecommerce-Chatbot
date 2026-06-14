@@ -1,0 +1,25 @@
+# --- Core Integration & Graphs ---
+langgraph
+pydantic
+pydantic-settings
+
+# --- LangChain Ecosystem (Stable & Modular) ---
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+
+# --- Vector Databases & LLM Providers ---
+numpy>=2.0.0
+chromadb
+faiss-cpu
+google-generativeai
+
+# --- Utilities & UI ---
+streamlit
+pypdf
+python-dotenv
+sentence-transformers
+torch
+torchvision
