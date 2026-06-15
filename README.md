@@ -8,7 +8,7 @@ An advanced, integrated E-Commerce Assistant powered by a Multi-Agent Architectu
 
 The diagram below illustrates the system architecture and data flow, from the initial user input to the final response rendered on the user interface:
 
-![Architecture Diagram](image.jpeg)
+![Architecture Diagram](image/image.jpeg)
 
 ---
 
