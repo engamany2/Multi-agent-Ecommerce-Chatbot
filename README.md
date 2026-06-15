@@ -57,6 +57,4 @@ Based on the Router's decision, the request is directed to one of three speciali
 ├── response.py             # Response Agent synthesizing final output
 ├── router.py               # Router Agent handling dynamic query routing
 └── store_policy.txt        # Store policies data for the FAQ Agent
-'''
-ggggg
 
